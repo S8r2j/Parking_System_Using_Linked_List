@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#define max_size 5
+#define max_size 200
 using namespace std;
 
 int i=0;
